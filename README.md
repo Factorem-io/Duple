@@ -4,7 +4,7 @@
 ## Project Status
 - [x]Concept Development
 - [x]Prototype
-- [ ]Production
+- [x]Production
 ---
 ## Project Overview
 
@@ -16,6 +16,9 @@ https://youtu.be/10STl1BM-Sc
 
 The second video contains more actual doing. I write the Code, do the CAD, and begin circuit design.
 https://youtu.be/1wiIylYVoeQ
+
+The Final video finished the project and brings this idea to life. There is about 900k lines of Gcode and 12 hours of machine time to create the curved piece.
+https://youtu.be/2t_IWL_aRn4
 
 ### Sources/Inspo
 
