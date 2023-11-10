@@ -1,3 +1,7 @@
+# Duple
+
+![](https://github.com/Factorem-io/Duple/blob/main/Small%20Duple%20Gif.gif)
+
 ## Backstory and Product Definition
 
 The Duple is a small dynamic desk accessory, the  idea was born after watching the Action Lab video where he created a crude version using a 3d printer and a variable speed turn table.   The extent of the Duple original idea was simply "what If I made a *really* nice version of that".  The premise is to mimic the atomic behavior of a Quadrupole Ion trap, but at the Macro Scale. Rotating a Saddle Curve at a very specific speed "traps" a ball placed in the curve.  There are also 3 build log videos for this project;
